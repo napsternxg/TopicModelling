@@ -1,0 +1,12 @@
+*.zip
+*.out
+*.err
+*.log
+*.tar.gz
+
+data/out/*
+lda-c/**
+topictoolbox/**
+turbotopics/**
+
+.ipynb_checkpoints/**
